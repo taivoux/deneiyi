@@ -25,12 +25,23 @@
 						<h6>SKU: ABC123</h6>
 						<h4>250.000 VNĐ</h4>
 						<hr>
-						<p>SIZE</p>
-						<p>COLOR</p>
+						<div class="size-color-img">
+							<img src="img/size.png">
+						</div>	
+						<div class="size-color-img">
+							<img src="img/color.png">
+						</div>	
 						<hr>
-						<p>Số lượng</p>
-						<div class="col-6 img-cart">
-							<a href="#"><img src="img/cart.jpg"></a>
+						<div class="row">
+<!-- 							<div class="col-3">
+								<p>Số lượng</p>
+							</div> -->
+							<div class="col-3 quality-img">
+								<img src="img/Frame 2.png">
+							</div>
+							<div class="col-3 img-cart">
+								<a href="#"><img src="img/cart.jpg"></a>
+							</div>							
 						</div>
 					</div>		
 				</div>

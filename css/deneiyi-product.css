@@ -357,3 +357,15 @@ li {
 	margin: 50px 0;
 }
 
+.product .info-sample .size-color-img img {
+	width: 150px;
+}
+
+.product .info-sample .quality-img img{
+	width: 50px;
+}
+
+.product .info-sample .quality-img {
+	display: flex;
+	align-items: center;
+}
