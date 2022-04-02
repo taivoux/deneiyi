@@ -33,13 +33,10 @@
 						</div>	
 						<hr>
 						<div class="row">
-<!-- 							<div class="col-3">
-								<p>Số lượng</p>
-							</div> -->
 							<div class="col-3 quality-img">
 								<img src="img/Frame 2.png">
 							</div>
-							<div class="col-3 img-cart">
+							<div class="col-9 img-cart">
 								<a href="#"><img src="img/cart.jpg"></a>
 							</div>							
 						</div>
