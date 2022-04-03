@@ -130,6 +130,7 @@
 			<div class="col-12">
 				<div class="row center-2">
 					<a href="#"><img src="img/promotion.jpg" style="width:85%"></a>
+					
 				</div>
 				
 			</div>
